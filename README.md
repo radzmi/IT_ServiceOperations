@@ -1,7 +1,7 @@
 # IT Operations Analytics
 
 <div align="center">
-  <img sr="other/Dashboard_Image.jpg" alt="description" width="1000">
+  <img src="other/Dashboard_Image.jpg" alt="description" width="1000">
 </div>
 
 
@@ -61,10 +61,33 @@ The dashboard tracks several operational metrics:
 
 ## Dashboard Preview
 
-<p align="center">
-  other/Dashboard_Image.jpg
-</p>
+<div align="center">
+  <img src="other/Dashboard1.png" alt="description" width="800">
+</div>
+
+
+
+#
+
+
+<div align="center">
+  <img src="other/Dashboard2.png" alt="description" width="800">
+</div>
+
+
+
+
 
 ## Business Value
 
 The dashboard helps IT support teams monitor service performance, identify operational bottlenecks, optimize resource allocation, and improve service delivery. By providing actionable insights, it supports better decision-making and enhances the overall user experience.
+
+
+
+## Disclaimer
+
+The dataset used in this project has been anonymized and modified for demonstration purposes. All employee names, departments, business information, service requests, and operational details have been replaced with fictitious or generic data to protect confidential and proprietary information.
+
+The dashboard, data model, calculations, and visualizations represent the actual analytical approach used in IT Service Management (ITSM) reporting. However, the underlying data does not reflect real organizational records. Any resemblance to actual persons, departments, systems, or business operations is purely coincidental.
+
+This project is intended solely to showcase data analysis, reporting, and dashboard development capabilities using Power BI.
